@@ -14,6 +14,8 @@ public class Greeter {
 
   /**
    * Tururu
+   * @param algo
+   * @return cadena
    */
   public String greet(String someone) {
     return String.format("Hello, %s!", someone);
