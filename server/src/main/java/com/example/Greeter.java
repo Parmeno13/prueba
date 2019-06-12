@@ -14,7 +14,7 @@ public class Greeter {
 
   /**
    * Tururu
-   * @param algo
+   * @param someone ENTRADA
    * @return cadena
    */
   public String greet(String someone) {
